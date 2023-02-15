@@ -1,0 +1,12 @@
+.summary {
+    margin-top: 2rem;
+    margin-left: 16px;
+}
+
+.summary-info {
+    font-size: 15px !important;
+    color: #0f1419 !important;
+    font-weight: 400 !important;
+    text-align: justify;
+    margin-top: 10px;
+}

@@ -1,0 +1,60 @@
+.experience {
+    margin-top: 2rem;
+    margin-left: 16px;
+    width: 600px;
+}
+
+.box-container {
+    display: flex;
+    align-items: center;
+    padding: 0 0 6px;
+    margin-top: 2rem;
+}
+
+.logo {
+    display: flex;
+    height: 80px;
+    width: 80px;
+}
+
+.employment-info {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width:555px;
+}
+
+.employment-info > p {
+    font-size: 16px;
+}
+
+.description-info {
+    text-align: justify;
+}
+
+.description-info > p {
+    font-size: 16px;
+    color: #041419 !important;
+}
+
+.logo-medium {
+    display: flex;
+    height: 85px;
+    width: 95px;
+}
+
+.fullname {
+    color: #041419;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.halfname {
+    color: #536471;
+    font-size: 15px;
+}
+
+li {
+    font-size: 15px;
+}

@@ -1,0 +1,57 @@
+.profileHeader {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 600px;
+}
+
+.banner {
+    width: 600px;
+    height: 200px;
+    top: 0;
+    left: 0;
+}
+
+.profilePicture {
+    width: 134px;
+    height: 134px;
+    position: absolute;
+    top: 120px;
+    left: 30px;
+    border-radius: 50%;
+}
+
+.username {
+    margin-top: 70px;
+    margin-left: 16px;
+}
+
+.fullname {
+    color: #041419;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.halfname {
+    color: #536471;
+    font-size: 15px;    
+}
+
+.introduction {
+    font-size: 15px;
+    color: #0f1419;
+    margin-left: 16px;
+    margin-top: 12px;
+}
+
+.info {
+    margin-top: 12px;
+    margin-left: 16px;
+    color: #536471;
+    display: flex;
+    flex-wrap: nowrap;
+    font-size: 15px;
+}
+
+
+

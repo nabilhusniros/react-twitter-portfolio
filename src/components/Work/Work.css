@@ -1,0 +1,54 @@
+.project {
+    margin-top: 2rem;
+    margin-left: 16px;
+}
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    }
+
+.name-bold {
+    font-size: 16px;
+    color: #041419;
+    font-weight: 700;
+    margin-top: 2rem;
+}
+
+.actions {
+    margin-top: 10px;
+    text-decoration: none;
+}
+
+.image-box {
+    width: 300px;
+    margin-top: 2rem;
+}
+
+.description {
+    width: 260px;
+    text-align: justify;
+}
+
+.box {
+    width: 300px;
+}
+
+.reverse-wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 2rem;
+}
+
+.image-box-reverse {
+    width: 500px;
+}
+
+.box-reverse {
+    width: 260px;
+}
+
+.name-bold-reverse {
+    font-size: 16px;
+    color: #041419;
+    font-weight: 700;
+}
