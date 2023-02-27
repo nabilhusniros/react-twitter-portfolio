@@ -47,6 +47,25 @@ function Work() {
             <img src="https://sigmaschool.co/assets/images/coding-intro/project-2a.png" alt="Spotify Clone" width="300px" height="220px"/>
         </div>
         </div>
+        <div className="wrapper">    
+        <div className="box">
+        <div className="name-bold">
+            <p>ShoeStop</p>
+        </div>
+        <div className="description">
+            <p>A simple online store built with React that allows users to browse and purchase shoes. The app includes a minimalistic shopping cart feature that allows users to add and remove items from their cart and checkout securely.</p>
+        </div>
+        <div className="actions">
+        <Stack spacing={2} direction="row">
+            <a href="https://github.com/nabilhusniros/react-shoe-website" target="_blank" rel="noreferrer"><Button variant="contained" size="small">Source Code</Button></a>
+        </Stack>
+        </div>
+        </div>
+
+        <div className="image-box">
+            <img src="https://img.freepik.com/premium-vector/shoes-sneakers-logo-with-minimalistic-style-line-vector-icon-illustration-design_629573-621.jpg" alt="ShoeStop" width="300px" height="220px"/>
+        </div>
+        </div>
     </div>
     )
 }
